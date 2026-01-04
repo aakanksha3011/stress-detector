@@ -118,3 +118,7 @@ Open frontend/index.html using:
 VS Code Live Server (recommended), or
 
 A modern browser (Chrome / Edge)
+
+Screenshot:
+<img width="1853" height="899" alt="Screenshot 2026-01-04 230439" src="https://github.com/user-attachments/assets/002abdd4-49fe-432a-a89d-bf3023df134f" />
+
